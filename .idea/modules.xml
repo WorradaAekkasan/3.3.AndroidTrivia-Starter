@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3.2AndroidTrivia-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/3.2AndroidTrivia-Starter.iml" group="3.2AndroidTrivia-Starter" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="3.2AndroidTrivia-Starter/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3.3.AndroidTrivia-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/3.3.AndroidTrivia-Starter.iml" group="3.3.AndroidTrivia-Starter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="3.3.AndroidTrivia-Starter/app" />
     </modules>
   </component>
 </project>
